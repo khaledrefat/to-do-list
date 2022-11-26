@@ -1,0 +1,189 @@
+body{ 
+    background-color: rgba(5, 5, 5, 0.294);
+    padding: 0;
+    margin: 0;
+
+}
+
+.continer{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.addtask{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.text{
+    height: 40px;
+    width: 580%;
+    border-bottom: 2px black solid;
+    border-radius: 10px;
+
+
+}
+.add{   
+    height: 50px;
+    width: 80px;
+    margin: 10px;
+    background-color: rgb(44, 45, 45);
+    border: 2px black solid;
+    border-radius: 10px;
+    font-size: 25px;
+    color: azure;
+
+
+}
+
+
+.fa-solid, .fa-sharp{
+font-size: 25px;
+color: rgb(42, 165, 134);
+
+
+}
+.fa-sharp{color: red;}
+
+.fa-file-circle-plus{
+    color: rgb(12, 13, 13);
+
+}
+
+
+button{
+    background-color: rgb(215, 250, 229);
+    border-radius: 20%;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+
+
+ol{
+    width: 70%;
+
+}
+li{
+    background-color: rgba(94, 10, 77, 0.345);
+    color: rgb(16, 16, 29);
+    margin: 10px;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: 500;
+    list-style: square inside;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .todo{
+    display: flex;
+    align-items: center;
+    justify-self: center ;
+    flex-direction: column;
+    }
+.hhh
+{color: rgb(125, 12, 231);
+    margin-bottom: 40px; 
+    font-weight: 600;
+    font-size: 80px;
+    letter-spacing: 8px;   
+}
+
+
+    form{
+        display: flex;
+        align-items: center;
+        justify-self: center ;
+        flex-direction: column;
+
+        }
+ .text{
+            width: 500px;
+            height: 30px;
+            margin-bottom: 20px;
+        }
+    .submit{
+        height: 50px;
+        width: 150px;
+        font-size: 25px;
+        font-weight: 900;
+    }
+    
+        li{
+            color: blueviolet;
+            font-size: 25px;
+        }
+    
+
+
+ 
+
+
+.div {
+display: flex;
+align-items: center;
+justify-self: center ;
+flex-direction: column;
+
+}
+.divv{
+    display: flex;
+
+}
+button{
+    font-size: 30px;
+    font-weight: 900;
+    padding: 20px;
+    margin: 5px;
+    color: rgb(9, 9, 9);
+    border-radius: 20px;
+}
+.hello{
+    font-size: 65px;
+    color: rgb(39, 44, 44);
+}
+.blue{
+background-color: rgb(0, 255, 13);
+}
+.green{
+    background-color: green;
+    font-size: 25px;
+
+
+}
+.red{
+    background-color: red;
+
+}
+ */
+
+
+
